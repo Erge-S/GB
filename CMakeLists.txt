@@ -1,5 +1,5 @@
-project(Lsn_5)
+project(Lesson_6)
 
-cmake_minimum_required(VERSION 3.12)
+cmake_minimum_required(VERSION 3.20)
 
-add_executable(Lsn_5 main.cpp Lsn_5_2.hpp )
+add_executable(Lsn_6 main.cpp)
